@@ -16,3 +16,6 @@ Ce projet a pour but de résoudre le problème du voyageur de commerce sur les p
 * Dans **`plots`**, retrouvez des graphiques qui décrivent l'évolution du nombre d'itérations moyen pour obtenir le meilleur chemin selon les paramètres. Grâce à ces graphiques, on a les meilleures valeurs présumées de chaque paramètre.
 
 * Dans `results`, retrouvez les résultats sous forme de texte des tests qui ont permis de tracer les graphiques de `plots`.
+
+
+![Map of the best path](https://github.com/ScarfZapdos/ants_tsp/blob/main/map.png)
